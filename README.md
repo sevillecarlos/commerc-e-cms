@@ -28,7 +28,7 @@ Navigate to [Commerc-e](https://github.com/sevillecarlos/commerc-e) to found the
 
 # Contributing
 Contributions, issues and feature requests are welcome!
-Feel free to check the [Issues Page](https://github.com/sevillecarlos/typing-race-server/issues).
+Feel free to check the [Issues Page](https://github.com/sevillecarlos/commerc-e-cms/issues).
 
 # License
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
