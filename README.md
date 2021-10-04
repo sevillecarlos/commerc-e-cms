@@ -3,7 +3,9 @@
 > The CMS of the Commerc-e store, that contain all the products for the store.
 
 ## CMS Tecnology
-* **STRAPI**
+![](https://img.shields.io/badge/🚀-STRAPI-brown)
+![](https://img.shields.io/badge/Programming--Language-JavaScript-yellow)
+
 
 # Getting Start
 ```
