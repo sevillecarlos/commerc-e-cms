@@ -1,6 +1,6 @@
 # Commerc-e CMS
 
-The CMS of the Commerc-e store, that contain all the products for the store.
+> The CMS of the Commerc-e store, that contain all the products for the store.
 
 ## CMS Tecnology
 * **STRAPI**
